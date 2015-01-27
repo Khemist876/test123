@@ -10,12 +10,9 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=343&lan=2&rows=
 
 #EXTINF:0, Fox Premiers Iptv
 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=300&lan=2&rows=40&f=.m3u8
-
-#EXTINF:0, FOX Iptv
-
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=88&lan=2&rows=40&f=.m3u8
 
 #EXTINF:0, FX HD Iptv
 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=104&lan=2&rows=40&f=.m3u8
+
+mas tdhgj
